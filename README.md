@@ -60,6 +60,11 @@ _WARNING_: While this reciever will accept rifle (top-notch) and pistol (bottom-
 16. Perform safety and function check. Beware not to dry-fire the gun too often, as it is a rimfire.
 
 ## Changelog
+* Private Beta v0.2
+> - Tightened tolerances on pin holes
+> - Tightened grip screw hole to self-tap better
+> - Reduce barrel collar mounting distance.
+
 * Private Beta v0.1
 > - Initial beta
 
