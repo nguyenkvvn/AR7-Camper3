@@ -1,5 +1,5 @@
 # AR7-Camper3
-Printable AR-7 receiver featuring both legacy Armalite layout, and modernized revision
+Printable AR-7 receiver
 
 nguyenkvvn
 
@@ -8,7 +8,6 @@ The AR-7 Camper III (alternatively written "Camper3") is the spiritual successor
 
 The Camper III package includes the following:
 - **Raw measurements for the AR-7** - Hand measured with calipers. Not a data package. Not for printing.
-- **AR-7 - Legacy Reciever** - This print-ready model is based off the aesthetics a standard AR-7 reciever from Henry's production run from when they were in Brooklyn.
 - **AR-7 Camper III - Reciever** - This print-ready model includes enhancements to the AR-7 reciever, such as 1913 brace/stock mount, top picatinny rails, gutter-sights in the picatinny, AR-15 grip compatibility, and reciever reinforcement for 3D printing or polymer-injection. The Camper III is NOT compatible with AR-7 storage stocks or other AR-7 accessories.
 
 ## Trivia
@@ -59,7 +58,12 @@ _WARNING_: While this reciever will accept rifle (top-notch) and pistol (bottom-
 15. Install other accessories or furniture respective to the model you printed.
 16. Perform safety and function check. Beware not to dry-fire the gun too often, as it is a rimfire.
 
+Video Assembly Guide here: https://odysee.com/@nguyenkvvn:a/AR-7-Camper-III-Assembly-Video_1:4
+
 ## Changelog
+* Public Release v1.0
+> - Included video assembly guide
+
 * Private Beta v0.2
 > - Tightened tolerances on pin holes
 > - Tightened grip screw hole to self-tap better
@@ -69,8 +73,8 @@ _WARNING_: While this reciever will accept rifle (top-notch) and pistol (bottom-
 > - Initial beta
 
 ## License
-MIT License.
+No license selected as of 9/24/2021.
 
-##### Vinh's Stipulations in addition to MIT License
+##### Vinh's Stipulations in addition to the License
 * I require you do not charge others for access, nor rehost outside of personal, private archives. This introduces the possibility of stale files and out-of-date shares, which may be dangerous of a critical fix/patch distribution is required.
 * Official sources shall only include Vinh's GitHub (@nguyenkvvn), and Deterrence Dispensed's LBRY archives. (Hot linking is perfectly okay!)
